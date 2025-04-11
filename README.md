@@ -11,4 +11,4 @@
 - [Instagram](https://www.instagram.com/its_me_arghya2004?igsh=MTdveGNjcWkzenZ6NA==)
 - [LinkedIn ](www.linkedin.com/in/arghya-chakraborty-156779253)
 - [LeetCode](https://leetcode.com/u/ARGHYA_CHAKRABORTI/)
-- - [GeeksforGeeks](https://www.geeksforgeeks.org/user/arghyachakrax8zc/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/arghyachakrax8zc/)
